@@ -9,5 +9,4 @@
 
 # -배포 링크
 
-[todo](http://psc1.s3-website.ap-northeast-2.amazonaws.com/).
-<a href="http://psc1.s3-website.ap-northeast-2.amazonaws.com/" target="_blank">tab</a>
+[todo](http://psc1.s3-website.ap-northeast-2.amazonaws.com/)
